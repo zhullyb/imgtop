@@ -1,5 +1,3 @@
-https://npm.elemecdn.com/superbadguy-bed@0.0.3/1.jpg
-https://npm.elemecdn.com/superbadguy-bed@0.0.3/2.jpg
 https://npm.elemecdn.com/superbadguy-bed@0.0.3/3.jpg
 https://npm.elemecdn.com/superbadguy-bed@0.0.3/4.jpg
 https://npm.elemecdn.com/superbadguy-bed@0.0.3/5.jpg
@@ -26,3 +24,5 @@ https://bu.dusays.com/2022/04/03/fb261297a3570.webp
 https://bu.dusays.com/2022/05/05/6273a74da9968.jpg
 https://bu.dusays.com/2022/05/05/6273a7a8f2a2e.jpg
 https://bu.dusays.com/2022/08/10/62f3704f4e6bb.jpg
+https://bu.dusays.com/2022/08/10/62f371c69f6b6.jpg
+https://bu.dusays.com/2022/08/10/62f371d370a18.jpg
